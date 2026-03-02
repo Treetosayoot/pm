@@ -3,25 +3,27 @@
 This table is automatically updated based on recent issues in the ethereum/pm repo.
 A breakout is considered "active" if it has had an issue opened in the past 3 months.
 
-*Last updated: 2026-02-02 07:44 UTC*
+*Last updated: 2026-03-02 07:42 UTC*
 
 | Call Series | Facilitator | Latest | Issue |
 |-------------|-------------|--------|-------|
 | All Wallet Devs | [@SamWilsn](https://github.com/SamWilsn) | 2026-02-18 | [Link](https://github.com/ethereum/pm/issues/1909) |
-| EIP Editing Office Hour | [@poojaranjan](https://github.com/poojaranjan) | 2026-02-03 | [Link](https://github.com/ethereum/pm/issues/1906) |
+| EIP Editing Office Hour | [@poojaranjan](https://github.com/poojaranjan) | 2026-02-24 | [Link](https://github.com/ethereum/pm/issues/1933) |
 | EIP-7732 Breakout Room | [@jtraglia](https://github.com/jtraglia) | 2025-12-19 | [Link](https://github.com/ethereum/pm/issues/1835) |
-| EIP-7928 Breakout Room | [@nerolation](https://github.com/nerolation) | 2026-01-28 | [Link](https://github.com/ethereum/pm/issues/1897) |
-| EIPIP Meeting | [@poojaranjan](https://github.com/poojaranjan) | 2026-01-21 | [Link](https://github.com/ethereum/pm/issues/1886) |
+| EIP-7928 Breakout Room | [@nerolation](https://github.com/nerolation) | 2026-02-25 | [Link](https://github.com/ethereum/pm/issues/1944) |
+| EIPIP Meeting | [@poojaranjan](https://github.com/poojaranjan) | 2026-02-25 | [Link](https://github.com/ethereum/pm/issues/1934) |
 | Ethproofs Community Call | [@will-corcoran](https://github.com/will-corcoran) | 2025-12-19 | [Link](https://github.com/ethereum/pm/issues/1849) |
-| FCR breakout room | [@will-corcoran](https://github.com/will-corcoran) | 2026-02-03 | [Link](https://github.com/ethereum/pm/issues/1887) |
-| FOCIL Breakout | [@jihoonsong](https://github.com/jihoonsong) | 2026-01-27 | [Link](https://github.com/ethereum/pm/issues/1898) |
+| Fast Confirmation Rule (FCR) | [@will-corcoran](https://github.com/will-corcoran) | 2026-03-03 | [Link](https://github.com/ethereum/pm/issues/1939) |
+| Fast Confirmation Rule (FCR) breakout room | [@will-corcoran](https://github.com/will-corcoran) | 2026-02-17 | [Link](https://github.com/ethereum/pm/issues/1924) |
+| FCR breakout room | [@will-corcoran](https://github.com/will-corcoran) | 2026-01-20 | [Link](https://github.com/ethereum/pm/issues/1870) |
+| FOCIL Breakout | [@jihoonsong](https://github.com/jihoonsong) | 2026-02-24 | [Link](https://github.com/ethereum/pm/issues/1946) |
 | L2 Interop Working Group | [@jrudolf](https://github.com/jrudolf) | 2026-02-11 | [Link](https://github.com/ethereum/pm/issues/1899) |
-| PQ Interop | [@will-corcoran](https://github.com/will-corcoran) | 2026-01-21 | [Link](https://github.com/ethereum/pm/issues/1905) |
-| PQ Transaction Signatures | [@asanso](https://github.com/asanso) | 2026-02-04 | [Link](https://github.com/ethereum/pm/issues/1889) |
-| RPC Standards | [@bomanaps](https://github.com/bomanaps) | 2026-01-26 | [Link](https://github.com/ethereum/pm/issues/1881) |
-| Stateless Implementers | [@gabrocheleau](https://github.com/gabrocheleau) | 2026-01-27 | [Link](https://github.com/ethereum/pm/issues/1873) |
-| Trustless Agents (ERC-8004) | [@dcrapis](https://github.com/dcrapis) | 2025-11-12 | [Link](https://github.com/ethereum/pm/issues/1789) |
-| Trustless Log Index | [@zsfelfoldi](https://github.com/zsfelfoldi) | 2026-02-03 | [Link](https://github.com/ethereum/pm/issues/1911) |
+| Post-Quantum (PQ) Interop | [@will-corcoran](https://github.com/will-corcoran) | 2026-03-04 | [Link](https://github.com/ethereum/pm/issues/1953) |
+| PQ Interop | [@will-corcoran](https://github.com/will-corcoran) | 2026-02-18 | [Link](https://github.com/ethereum/pm/issues/1936) |
+| PQ Transaction Signatures | [@asanso](https://github.com/asanso) | 2026-03-04 | [Link](https://github.com/ethereum/pm/issues/1949) |
+| RPC Standards | [@bomanaps](https://github.com/bomanaps) | 2026-02-23 | [Link](https://github.com/ethereum/pm/issues/1943) |
+| Stateless Implementers | [@gabrocheleau](https://github.com/gabrocheleau) | 2026-02-10 | [Link](https://github.com/ethereum/pm/issues/1919) |
+| Trustless Log Index | [@zsfelfoldi](https://github.com/zsfelfoldi) | 2026-02-17 | [Link](https://github.com/ethereum/pm/issues/1927) |
 
 ## Inactive Series
 
@@ -34,4 +36,5 @@ These series haven't had a meeting in the past 3 months or are completed.
 - Portal Implementers
 - Protocol Research
 - RollCall
+- Trustless Agents (ERC-8004)
 - eth_simulate
