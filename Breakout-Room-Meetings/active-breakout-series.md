@@ -3,19 +3,18 @@
 This table is automatically updated based on recent issues in the ethereum/pm repo.
 A breakout is considered "active" if it has had an issue opened in the past 3 months.
 
-*Last updated: 2026-05-25 11:04 UTC*
+*Last updated: 2026-06-08 11:49 UTC*
 
 | Call Series | Facilitator | Latest | Issue |
 |-------------|-------------|--------|-------|
 | All Wallet Devs | [@SamWilsn](https://github.com/SamWilsn) | 2026-05-20 | [Link](https://github.com/ethereum/pm/issues/1997) |
-| EIP Editing Office Hour | [@poojaranjan](https://github.com/poojaranjan) | 2026-05-12 | [Link](https://github.com/ethereum/pm/issues/2043) |
-| EIP-7928 Breakout Room | [@nerolation](https://github.com/nerolation) | 2026-02-25 | [Link](https://github.com/ethereum/pm/issues/1944) |
-| EIPIP Meeting | [@poojaranjan](https://github.com/poojaranjan) | 2026-05-27 | [Link](https://github.com/ethereum/pm/issues/2062) |
+| EIP Editing Office Hour | [@poojaranjan](https://github.com/poojaranjan) | 2026-06-09 | [Link](https://github.com/ethereum/pm/issues/2108) |
+| EIPIP Meeting | [@poojaranjan](https://github.com/poojaranjan) | 2026-07-08 | [Link](https://github.com/ethereum/pm/issues/2106) |
 | Ethproofs Community Call | [@will-corcoran](https://github.com/will-corcoran) | 2026-03-20 | [Link](https://github.com/ethereum/pm/issues/1979) |
 | Fast Confirmation Rule (FCR) | [@will-corcoran](https://github.com/will-corcoran) | 2026-05-12 | [Link](https://github.com/ethereum/pm/issues/2037) |
-| FOCIL Breakout | [@jihoonsong](https://github.com/jihoonsong) | 2026-05-19 | [Link](https://github.com/ethereum/pm/issues/2060) |
+| FOCIL Breakout | [@jihoonsong](https://github.com/jihoonsong) | 2026-06-02 | [Link](https://github.com/ethereum/pm/issues/2098) |
 | Post-Quantum (PQ) Interop | [@will-corcoran](https://github.com/will-corcoran) | 2026-04-22 | [Link](https://github.com/ethereum/pm/issues/2023) |
-| PQ Transaction Signatures | [@asanso](https://github.com/asanso) | 2026-05-13 | [Link](https://github.com/ethereum/pm/issues/2052) |
+| PQ Transaction Signatures | [@asanso](https://github.com/asanso) | 2026-05-27 | [Link](https://github.com/ethereum/pm/issues/2078) |
 | RPC Standards | [@kclowes](https://github.com/kclowes) | 2026-06-01 | [Link](https://github.com/ethereum/pm/issues/2075) |
 | Stateless Implementers | [@gabrocheleau](https://github.com/gabrocheleau) | 2026-06-01 | [Link](https://github.com/ethereum/pm/issues/2064) |
 | Trustless Agents (ERC-8004) | [@Eversmile12](https://github.com/Eversmile12) | 2026-03-15 | [Link](https://github.com/ethereum/pm/issues/1971) |
@@ -26,6 +25,7 @@ These series haven't had a meeting in the past 3 months or are completed.
 
 - Beam Call
 - EIP-7732 Breakout Room
+- EIP-7928 Breakout Room
 - EVM Resource Pricing Breakout
 - EVMmax
 - L2 Interop Working Group
